@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(250, 230, 204);
+}
+h1{
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Libre Baskerville', serif;
+    color: rgb(66, 165, 232);
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: rgb(128, 158, 213);
+    text-align: center;
+}
+
+img{
+    margin-top: 10%;
+    border: 5px solid white;
+    width: 100%;
+    
+}
+div{
+    
+    width:50%;
+    margin-left: 25% ;
+}
